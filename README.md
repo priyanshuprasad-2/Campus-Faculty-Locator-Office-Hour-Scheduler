@@ -48,4 +48,4 @@ The program automatically creates the following files:
 
 ## Author
 
-Priyanshu
+Priyanshu Prasad
