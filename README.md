@@ -1,3 +1,13 @@
+## Copyright and Usage Notice
+
+© 2026 Priyanshu Prasad. All rights reserved.
+
+This project is shared for viewing and educational demonstration purposes.
+
+You are welcome to explore the source code and understand how the program works. However, copying, redistributing, modifying, or presenting this project as your own work is not permitted without the author's prior permission.
+
+This is a personal educational project and is not an officially deployed Bennett University system.
+
 # Campus Faculty Locator & Office Hour Scheduler
 
 A Python-based project designed to help students locate faculty members, check their cabin details, and find suitable meeting times.
